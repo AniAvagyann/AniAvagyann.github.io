@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: rgb(243, 209, 214);
+  }
+  #container {
+    display: flex;
+    flex-direction: column;
+
+  }
+  .image {
+    border: 1px solid black;
+  }
+  .extra {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  div {
+    border: 1px solid black;
+    margin: 4px;
+    text-align: center;
+
+  }
+  #ul {
+    width:200px;
+    height:80px;
+    text-align: left;
+  }
